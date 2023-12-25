@@ -1,0 +1,22 @@
+{
+  "localhost": {
+    "api_url": "api",
+    "title": "localhost",
+    "color": "#27B077"
+  },
+  "development": {
+    "api_url": "",
+    "title": "dev環境",
+    "color": "#27B077"
+  },
+  "staging": {
+    "api_url": "",
+    "title": "ステージング",
+    "color": "#42526E"
+  },
+  "production": {
+    "api_url": "",
+    "title": "商用",
+    "color": "#EB3D32"
+  }
+}
